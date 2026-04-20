@@ -1,0 +1,6 @@
+{
+  "name": "prompto-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prompto API proxy — keeps Anthropic key server-side"
+}
